@@ -1,0 +1,3 @@
+certifi==2021.5.30
+pafy==0.5.5
+youtube-dl==2021.6.6
